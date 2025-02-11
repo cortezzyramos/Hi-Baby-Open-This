@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
+    "Why you do this to me(stone emoji)?",
+    "Are you frfr??",
     "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Princess think of all the good food we will eat",
+    "I don't think you thought hard enough, cuddle and snacks?",
+    "Brunch, Food Coma, Cuddle, Half Baked???",
+    "Okay all of those things, and then we can go do an activity after with coffee?!?!",
+    "We can even get freaky!",
+    "This is your last chance missus",
+    "You leave me no choice YOU silly goose"
 ];
 
 let messageIndex = 0;
