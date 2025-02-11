@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "Why you do this to me(stone emoji)?",
+    "Why >:( ?",
     "Are you frfr??",
     "Are you positive?",
     "Princess think of all the good food we will eat",
@@ -63,7 +63,7 @@ const messages = [
     "Okay all of those things, and then we can go do an activity after with coffee?!?!",
     "We can even get freaky!",
     "This is your last chance missus",
-    "You leave me no choice YOU silly goose"
+    "You leave me no choice YOU silly goose, you have actually 0 choice buddy"
 ];
 
 let messageIndex = 0;
